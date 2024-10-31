@@ -14,3 +14,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Paso 3 lab: Cubo (31/10/2024)
 - North Area + South Area (31/10/2024)
 - modificación: North Area (31/10/2024)
+- cambio nombre CHANGELOG + PR Template (31/10/2024)
