@@ -15,3 +15,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - North Area + South Area (31/10/2024)
 - modificación: North Area (31/10/2024)
 - cambio nombre CHANGELOG + PR Template (31/10/2024)
+- PR Template Contenido (31/10/2024)
